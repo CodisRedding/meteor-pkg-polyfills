@@ -2,7 +2,7 @@ Package.describe({
   name: 'fourq:polyfill',
   summary: 'Polyfilling dat js',
   git: 'https://github.com/fourq/meteor-pkg-polyfills.git',
-  version: '1.0.0'
+  version: '1.1.0'
 });
 
 Package.onUse(function(api) {
